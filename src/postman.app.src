@@ -1,5 +1,5 @@
 {application, postman,
- [{description, "An OTP application"},
+ [{description, "An OTP Application to send emails quickly and easily."},
   {vsn, "0.0.1"},
   {registered, []},
   {mod, { postman_app, []}},

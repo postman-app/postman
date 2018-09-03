@@ -1,7 +1,7 @@
 postman
 =====
 
-An OTP application
+An OTP Application to send emails quickly and easily.
 
 Build
 -----
